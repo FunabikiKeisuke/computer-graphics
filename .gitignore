@@ -1,0 +1,5 @@
+# execute file
+*.out
+
+# image file
+*.png
